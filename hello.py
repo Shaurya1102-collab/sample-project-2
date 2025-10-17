@@ -1,1 +1,1 @@
-print("this is the new world")
+print("katta krishna is not a man nor is a women ")
